@@ -1,8 +1,8 @@
 # Project-Euler
 
-[1] Project Euler problems
+[Project Euler problems][1]
 
-[2] About Project Euler
+[About Project Euler][2]
 
 
 [1]: https://projecteuler.net/archives
